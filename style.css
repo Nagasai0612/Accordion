@@ -1,0 +1,14 @@
+
+.accordion-button{
+    background-color: rgb(26, 126, 37);
+    border-radius: 5px;
+    border: 5px solid black;
+}
+
+.accordion-collapse{
+    background-color: rgb(1, 63, 1);
+}
+
+.accordion-body{
+    background-color: tomato;
+}
